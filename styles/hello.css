@@ -1,4 +1,30 @@
 
-h2{
+.form-section{
     text-align: center;
+    border: 2px solid gray;
+    margin:   50px 680px 5px 680px;
+    height: 680px;
+    width: 350px;
+    border-radius: 10px;
+    padding-top:10px ;
+    background-color: rgba(127, 255, 212, 0.34);
 }
+
+.l{
+    text-align: left;
+    margin-left:45px ;
+    margin-top: 5px;
+}
+
+.lab{
+    margin-top: 5px;
+    text-align: left;
+    margin-left:55px ;
+}
+
+.btn{
+    text-align: left;
+    margin-right:165px ;
+    margin-top: 10px;
+}
+ 
